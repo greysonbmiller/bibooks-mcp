@@ -1,0 +1,5 @@
+{
+  "context_servers": {
+    "bibooks": { "url": "https://bibooks.org/mcp" }
+  }
+}

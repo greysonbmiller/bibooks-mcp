@@ -1,0 +1,5 @@
+{
+  "servers": {
+    "bibooks": { "type": "http", "url": "https://bibooks.org/mcp" }
+  }
+}

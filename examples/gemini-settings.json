@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "bibooks": { "httpUrl": "https://bibooks.org/mcp" }
+  }
+}
